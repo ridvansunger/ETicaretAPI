@@ -1,0 +1,38 @@
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.deps.json
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CopyComplete
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+E:\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.deps.json
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CopyComplete
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastracture\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
