@@ -61,7 +61,5 @@ namespace ETicaretAPI.Persistence.Repositories
         public async Task<int> SaveAsync()
               =>await _context.SaveChangesAsync();
 
-       
-
     }
 }
