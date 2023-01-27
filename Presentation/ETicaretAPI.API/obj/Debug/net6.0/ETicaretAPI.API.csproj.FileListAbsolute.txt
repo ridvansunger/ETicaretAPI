@@ -82,3 +82,8 @@ C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAP
 C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.pdb
 C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.genruntimeconfig.cache
 C:\Users\LB DELL\Desktop\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ref\ETicaretAPI.API.dll
+E:\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\FluentValidation.dll
+E:\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastracture.dll
+E:\ETicaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastracture.pdb
